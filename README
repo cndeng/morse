@@ -1,8 +1,0 @@
-This Python script requires the excellent PyFirmata module (pip install pyfirmata). 
-
-Currently does not include numbers or punctuation.
-
-Will potentially add reverse functionality via pushbutton to translate Morse code into letters. 
-
-
-
